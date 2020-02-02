@@ -102,8 +102,3 @@ console.log("Tree is empty:" + " " + tree.isEmpty());
 console.log(tree);
 
 
-
-
-
-
-// getMax = function(node){ if(!node) node = this.root; while(node.right) { node = node.right; } return node.value;};
